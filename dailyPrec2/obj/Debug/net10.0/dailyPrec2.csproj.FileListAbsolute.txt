@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\bin\Debug\net10.0\dailyPrec2.exe
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\bin\Debug\net10.0\dailyPrec2.deps.json
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\bin\Debug\net10.0\dailyPrec2.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\bin\Debug\net10.0\dailyPrec2.dll
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\bin\Debug\net10.0\dailyPrec2.pdb
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\dailyPrec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\dailyPrec2.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\dailyPrec2.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\dailyPrec2.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\dailyPrec2.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\dailyPrec2.dll
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\refint\dailyPrec2.dll
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\dailyPrec2.pdb
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\dailyPrec2.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\dailyPrec2\obj\Debug\net10.0\ref\dailyPrec2.dll

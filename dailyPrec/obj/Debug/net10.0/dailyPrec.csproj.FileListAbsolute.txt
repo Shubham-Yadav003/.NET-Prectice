@@ -12,3 +12,4 @@ C:\Users\90262\Desktop\CSHARP\dailyPrec\obj\Debug\net10.0\refint\dailyPrec.dll
 C:\Users\90262\Desktop\CSHARP\dailyPrec\obj\Debug\net10.0\dailyPrec.pdb
 C:\Users\90262\Desktop\CSHARP\dailyPrec\obj\Debug\net10.0\dailyPrec.genruntimeconfig.cache
 C:\Users\90262\Desktop\CSHARP\dailyPrec\obj\Debug\net10.0\ref\dailyPrec.dll
+C:\Users\90262\Desktop\CSHARP\dailyPrec\obj\Debug\net10.0\dailyPrec.sourcelink.json
