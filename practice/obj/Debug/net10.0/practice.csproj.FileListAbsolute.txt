@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\practice.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\practice.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\practice.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\practice\bin\Debug\net10.0\practice.exe
+C:\Users\90262\Desktop\CSHARP\practice\bin\Debug\net10.0\practice.deps.json
+C:\Users\90262\Desktop\CSHARP\practice\bin\Debug\net10.0\practice.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\practice\bin\Debug\net10.0\practice.dll
+C:\Users\90262\Desktop\CSHARP\practice\bin\Debug\net10.0\practice.pdb
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\practice.dll
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\refint\practice.dll
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\practice.pdb
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\practice.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\practice\obj\Debug\net10.0\ref\practice.dll

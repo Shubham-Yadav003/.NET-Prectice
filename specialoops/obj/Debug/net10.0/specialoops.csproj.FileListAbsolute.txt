@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\specialoops\bin\Debug\net10.0\specialoops.exe
+C:\Users\90262\Desktop\CSHARP\specialoops\bin\Debug\net10.0\specialoops.deps.json
+C:\Users\90262\Desktop\CSHARP\specialoops\bin\Debug\net10.0\specialoops.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\specialoops\bin\Debug\net10.0\specialoops.dll
+C:\Users\90262\Desktop\CSHARP\specialoops\bin\Debug\net10.0\specialoops.pdb
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\specialoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\specialoops.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\specialoops.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\specialoops.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\specialoops.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\specialoops.dll
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\refint\specialoops.dll
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\specialoops.pdb
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\specialoops.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\specialoops\obj\Debug\net10.0\ref\specialoops.dll
