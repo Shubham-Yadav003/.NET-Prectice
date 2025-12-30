@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\string.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\string.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\string.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\string.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\string\bin\Debug\net10.0\string.exe
+C:\Users\90262\Desktop\CSHARP\string\bin\Debug\net10.0\string.deps.json
+C:\Users\90262\Desktop\CSHARP\string\bin\Debug\net10.0\string.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\string\bin\Debug\net10.0\string.dll
+C:\Users\90262\Desktop\CSHARP\string\bin\Debug\net10.0\string.pdb
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\string.dll
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\refint\string.dll
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\string.pdb
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\string.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\string\obj\Debug\net10.0\ref\string.dll
