@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\stringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\stringBuilder.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\stringBuilder.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\stringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\stringBuilder.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\stringBuilder\bin\Debug\net10.0\stringBuilder.exe
+C:\Users\90262\Desktop\CSHARP\stringBuilder\bin\Debug\net10.0\stringBuilder.deps.json
+C:\Users\90262\Desktop\CSHARP\stringBuilder\bin\Debug\net10.0\stringBuilder.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\stringBuilder\bin\Debug\net10.0\stringBuilder.dll
+C:\Users\90262\Desktop\CSHARP\stringBuilder\bin\Debug\net10.0\stringBuilder.pdb
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\stringBuilder.dll
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\refint\stringBuilder.dll
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\stringBuilder.pdb
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\stringBuilder.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\stringBuilder\obj\Debug\net10.0\ref\stringBuilder.dll

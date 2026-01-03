@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\collection.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\collection.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\collection.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\collection.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\collection\bin\Debug\net10.0\collection.exe
+C:\Users\90262\Desktop\CSHARP\collection\bin\Debug\net10.0\collection.deps.json
+C:\Users\90262\Desktop\CSHARP\collection\bin\Debug\net10.0\collection.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\collection\bin\Debug\net10.0\collection.dll
+C:\Users\90262\Desktop\CSHARP\collection\bin\Debug\net10.0\collection.pdb
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\collection.dll
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\refint\collection.dll
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\collection.pdb
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\collection.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\collection\obj\Debug\net10.0\ref\collection.dll
