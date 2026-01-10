@@ -1,11 +1,11 @@
-﻿using System;
+﻿// using System;
 
-class Program
-{
-    public static void Main()
-    {
+// class Program
+// {
+//     public static void Main()
+//     {
 
-        // PatientBill.Func();
-        SaleTransaction.Func();
-    }
-}
+//         // PatientBill.Func();
+//         SaleTransaction.Func();
+//     }
+// }

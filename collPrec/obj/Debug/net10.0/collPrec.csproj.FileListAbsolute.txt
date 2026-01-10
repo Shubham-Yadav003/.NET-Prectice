@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\collPrec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\collPrec.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\collPrec.AssemblyInfo.cs
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\collPrec.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\collPrec.sourcelink.json
+C:\Users\90262\Desktop\CSHARP\collPrec\bin\Debug\net10.0\collPrec.exe
+C:\Users\90262\Desktop\CSHARP\collPrec\bin\Debug\net10.0\collPrec.deps.json
+C:\Users\90262\Desktop\CSHARP\collPrec\bin\Debug\net10.0\collPrec.runtimeconfig.json
+C:\Users\90262\Desktop\CSHARP\collPrec\bin\Debug\net10.0\collPrec.dll
+C:\Users\90262\Desktop\CSHARP\collPrec\bin\Debug\net10.0\collPrec.pdb
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\collPrec.dll
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\refint\collPrec.dll
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\collPrec.pdb
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\collPrec.genruntimeconfig.cache
+C:\Users\90262\Desktop\CSHARP\collPrec\obj\Debug\net10.0\ref\collPrec.dll
