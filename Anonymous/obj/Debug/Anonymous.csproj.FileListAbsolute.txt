@@ -1,0 +1,7 @@
+C:\Users\90262\Desktop\CSHARP\Anonymous\bin\Debug\Anonymous.exe.config
+C:\Users\90262\Desktop\CSHARP\Anonymous\bin\Debug\Anonymous.exe
+C:\Users\90262\Desktop\CSHARP\Anonymous\bin\Debug\Anonymous.pdb
+C:\Users\90262\Desktop\CSHARP\Anonymous\obj\Debug\Anonymous.csproj.AssemblyReference.cache
+C:\Users\90262\Desktop\CSHARP\Anonymous\obj\Debug\Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\Anonymous\obj\Debug\Anonymous.exe
+C:\Users\90262\Desktop\CSHARP\Anonymous\obj\Debug\Anonymous.pdb

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90262\\Desktop\\CSHARP\\lambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{320D9293-B02C-4100-B7D9-C8A6BEF5DF1E}|..\\ExxtensionMethod\\ExxtensionMethod.csproj|c:\\users\\90262\\desktop\\csharp\\exxtensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320D9293-B02C-4100-B7D9-C8A6BEF5DF1E}|..\\ExxtensionMethod\\ExxtensionMethod.csproj|c:\\users\\90262\\desktop\\csharp\\exxtensionmethod\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52003477-0D7F-41A7-9578-52B2DF8E2609}|..\\ClassLib\\ClassLib.csproj|c:\\users\\90262\\desktop\\csharp\\classlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52003477-0D7F-41A7-9578-52B2DF8E2609}|..\\ClassLib\\ClassLib.csproj|c:\\users\\90262\\desktop\\csharp\\classlib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E9204-31A8-434D-939B-3EDA8092F5A3}|lambda.csproj|c:\\users\\90262\\desktop\\csharp\\lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E9204-31A8-434D-939B-3EDA8092F5A3}|lambda.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E9204-31A8-434D-939B-3EDA8092F5A3}|lambda.csproj|c:\\users\\90262\\desktop\\csharp\\lambda\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E9204-31A8-434D-939B-3EDA8092F5A3}|lambda.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\90262\\Desktop\\CSHARP\\ExxtensionMethod\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "..\\ExxtensionMethod\\ExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\90262\\Desktop\\CSHARP\\ExxtensionMethod\\ExtensionMethod.cs",
+              "RelativeToolTip": "..\\ExxtensionMethod\\ExtensionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:57:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90262\\Desktop\\CSHARP\\ExxtensionMethod\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExxtensionMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\90262\\Desktop\\CSHARP\\ExxtensionMethod\\Program.cs*",
+              "RelativeToolTip": "..\\ExxtensionMethod\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:53:17.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\90262\\Desktop\\CSHARP\\ClassLib\\program.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib\\program.cs",
+              "ToolTip": "C:\\Users\\90262\\Desktop\\CSHARP\\ClassLib\\program.cs",
+              "RelativeToolTip": "..\\ClassLib\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:49:20.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\90262\\Desktop\\CSHARP\\ClassLib\\Calculator.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib\\Calculator.cs",
+              "ToolTip": "C:\\Users\\90262\\Desktop\\CSHARP\\ClassLib\\Calculator.cs",
+              "RelativeToolTip": "..\\ClassLib\\Calculator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:29:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\90262\\Desktop\\CSHARP\\lambda\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\90262\\Desktop\\CSHARP\\lambda\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:11:24.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90262\\Desktop\\CSHARP\\lambda\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\90262\\Desktop\\CSHARP\\lambda\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:06:54.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

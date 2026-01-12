@@ -1,0 +1,10 @@
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\bin\Debug\ExxtensionMethod.exe.config
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\bin\Debug\ExxtensionMethod.exe
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\bin\Debug\ExxtensionMethod.pdb
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\bin\Debug\ClassLib.dll
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\bin\Debug\ClassLib.pdb
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\obj\Debug\ExxtensionMethod.csproj.AssemblyReference.cache
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\obj\Debug\ExxtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\obj\Debug\Exxtensi.C59AA08F.Up2Date
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\obj\Debug\ExxtensionMethod.exe
+C:\Users\90262\Desktop\CSHARP\ExxtensionMethod\obj\Debug\ExxtensionMethod.pdb

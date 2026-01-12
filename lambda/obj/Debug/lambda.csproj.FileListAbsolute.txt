@@ -1,0 +1,10 @@
+C:\Users\90262\Desktop\CSHARP\lambda\bin\Debug\lambda.exe.config
+C:\Users\90262\Desktop\CSHARP\lambda\bin\Debug\lambda.exe
+C:\Users\90262\Desktop\CSHARP\lambda\bin\Debug\lambda.pdb
+C:\Users\90262\Desktop\CSHARP\lambda\obj\Debug\lambda.csproj.AssemblyReference.cache
+C:\Users\90262\Desktop\CSHARP\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\CSHARP\lambda\obj\Debug\lambda.exe
+C:\Users\90262\Desktop\CSHARP\lambda\obj\Debug\lambda.pdb
+C:\Users\90262\Desktop\CSHARP\lambda\bin\Debug\ClassLib.dll
+C:\Users\90262\Desktop\CSHARP\lambda\bin\Debug\ClassLib.pdb
+C:\Users\90262\Desktop\CSHARP\lambda\obj\Debug\lambda.csproj.Up2Date
