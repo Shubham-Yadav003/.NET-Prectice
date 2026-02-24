@@ -1,0 +1,14 @@
+wwwroot\audio\audioo.mp4
+wwwroot\audio\videoo.mp4
+wwwroot\images\img1.png
+wwwroot\images\img2.png
+wwwroot\index.html
+wwwroot\inline.html
+wwwroot\part2.html
+wwwroot\BoxModel.html
+wwwroot\CardAlignment.html
+C:\Users\90262\Desktop\C#_two\FirstWebPage\wwwroot\index.html
+C:\Users\90262\Desktop\C#_two\FirstWebPage\wwwroot\inline.html
+C:\Users\90262\Desktop\C#_two\FirstWebPage\wwwroot\part2.html
+C:\Users\90262\Desktop\C#_two\FirstWebPage\wwwroot\BoxModel.html
+C:\Users\90262\Desktop\C#_two\FirstWebPage\wwwroot\CardAlignment.html
